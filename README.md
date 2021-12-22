@@ -1,10 +1,5 @@
 echo " hello world "
-$ cd pu
-$ pu
-$ gedit abc.sh
-$ ls
-$ sh abc.sh
-
-
-
-
+read b
+read a
+C = 'expr $a+$b'
+echo
